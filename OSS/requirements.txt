@@ -1,3 +1,0 @@
-mem0ai
-python-dotenv
-openai
