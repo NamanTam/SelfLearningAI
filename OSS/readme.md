@@ -31,6 +31,7 @@ The goal is to help the assistant remember important user preferences, interests
 4. Ollama generates a personalized response.
 5. A memory-extraction step identifies potentially useful facts.
 6. Extracted facts are submitted to Mem0 for storage or updating.
+<img width="1258" height="682" alt="Screenshot 2026-09-30 174146" src="https://github.com/user-attachments/assets/8e70f9dc-ee57-4708-abe3-6e0d0a6b79c4" />
 
 
 ## Project Structure
