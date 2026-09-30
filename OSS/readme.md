@@ -1,5 +1,5 @@
 
-# AI Memory Assistant using Mem0 and Ollama
+~~# AI Memory Assistant using Mem0 and Ollama
 
 A Python-based AI assistant that uses persistent memory to personalize responses. It integrates the hosted Mem0 Platform for memory storage and retrieval with a locally running Ollama LLM for response generation.
 
@@ -31,6 +31,8 @@ The goal is to help the assistant remember important user preferences, interests
 4. Ollama generates a personalized response.
 5. A memory-extraction step identifies potentially useful facts.
 6. Extracted facts are submitted to Mem0 for storage or updating.
+![Screenshot 2026-09-30 174146.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202026-09-30%20174146.png)
+
 
 ## Project Structure
 
@@ -136,3 +138,4 @@ Type a message to interact with the assistant. Enter `exit` to quit.
 ## License
 
 Choose an appropriate open-source license before distributing this project.
+
